@@ -1,0 +1,10 @@
+TY  - JOUR
+AU  - Arote, Abhishek
+AU  - Mandawkar, Umakant
+PY  - 2021/06/07
+SP  - 497
+EP  - 504
+T1  - Android Hacking in Kali Linux Using Metasploit Framework
+DO  - 10.32628/CSEIT2173111
+JO  - International Journal of Scientific Research in Computer Science, Engineering and Information Technology
+ER  - 
